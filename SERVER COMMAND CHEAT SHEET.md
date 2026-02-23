@@ -53,3 +53,7 @@ TAG=12 docker compose pull && docker compose up -d
 
 - here TAG number will be github action run number.
 ##### Example
+![github actions](https://github.com/huzaifa-1123/DOC/blob/master/screenshot/github%20actions.png)
+
+- red circle is number. no hash
+- green circle is branch. make sure to put the number main branck in production
